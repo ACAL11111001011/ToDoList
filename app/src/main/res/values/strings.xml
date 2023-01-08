@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ToDoList</string>
+    <string name="hint">Add new item</string>
+    <string name="addButton">ADD</string>
 </resources>
